@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\bin\Debug\net6.0\string_hazirMetotlar.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\bin\Debug\net6.0\string_hazirMetotlar.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\bin\Debug\net6.0\string_hazirMetotlar.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\bin\Debug\net6.0\string_hazirMetotlar.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\bin\Debug\net6.0\string_hazirMetotlar.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\refint\string_hazirMetotlar.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\string_hazirMetotlar.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\string_hazirMetotlar\obj\Debug\net6.0\ref\string_hazirMetotlar.dll
